@@ -3,3 +3,17 @@
     font-family: "Verdana","Dejavu sans",  sans-serif;
 }
 
+#two {
+    color: blue;
+    font-size: 36px
+}
+
+#three {
+    font-size: 33px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 900;
+}
