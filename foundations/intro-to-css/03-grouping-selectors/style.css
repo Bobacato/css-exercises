@@ -6,3 +6,9 @@
 .button-2 {
     background-color: yellow;
 }
+
+.button-1, .button-2 {
+    font-size: 28px;
+    font-family: Helvetica, "times new roman", sans-serif;
+    
+}
